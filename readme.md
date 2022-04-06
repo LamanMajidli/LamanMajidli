@@ -8,5 +8,5 @@
  <h4>   - 	:space_invader:Web Front-End Developer  </h4>
   <br>
   <br>
- <p align="center" > <img src="https://github-readme-stats.vercel.app/api?username=LamanMajidli&show_icons=true&theme=gotham" alt="lamanmajidli" />
+ <p> <img src="https://github-readme-stats.vercel.app/api?username=LamanMajidli&show_icons=true&theme=gotham" alt="lamanmajidli" />
   </div>
