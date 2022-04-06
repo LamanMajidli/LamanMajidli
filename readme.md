@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/LamanMajidli)
 <div align = "right">
-<img height="280px"object-fit="cover" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" />   
+<img height="280px" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" />   
  </div>
 
 <div align = "left">
