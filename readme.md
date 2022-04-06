@@ -7,5 +7,5 @@
 - 🌱I’m currently learning Javascript;<h4>
  <h4>   - 	:space_invader:Web Front-End Developer  </h4>
   <br>
- <p align="center" width="30%> <img src="https://github-readme-stats.vercel.app/api?username=LamanMajidli&show_icons=true&theme=gotham" alt="lamanmajidli" />
+ <p align="center" > <img src="https://github-readme-stats.vercel.app/api?username=LamanMajidli&show_icons=true&theme=gotham" alt="lamanmajidli" />
   </div>
